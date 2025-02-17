@@ -1,0 +1,6 @@
+@SocialiseBackend_HostAddress = http://localhost:5191
+
+GET {{SocialiseBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
